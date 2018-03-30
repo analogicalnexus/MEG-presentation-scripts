@@ -1,0 +1,95 @@
+## Parameter File
+## This an example parameter file for running your eeg experiment.
+## Please enter each parameter on the line underneath.
+## Do NOT change the variable names!!  
+
+## This parameter file is to be used with the code in SentEEG.m.
+## If you are tailoring the code to a specific experiment that requires 
+## additional parameters, you may add them on a new line.  Also, the order
+## of the parameters should not matter.  All parameters will be saved
+## as part of a struct in matlab called 'par'.  So for example, the line
+## 'wordDuration = .3' will set the variable in matlab 'par.wordDuration'
+## to .3.  
+
+## Name of parameter setting:
+name = 'moose'
+
+## Scanner type (MRI, EEG, MEG, testMEEG, or testMRI)
+scanner = 'testMEEG'
+
+## Beginning trigger code
+beginTrigger = 254
+
+## Self paced
+selfPaced = 0
+
+## Number of trigger codes needed in total
+
+nTriggers = 254
+
+## Inter-trial interval (not used)
+ITI = 0
+
+## Word Duration in seconds:
+wordDuration = .5
+
+## Inter Word Interval (IWI) in seconds:
+IWI = .083
+
+## Final Word Duration in seconds
+
+finalWordDuration = .9
+
+## Fixation Duration in seconds:
+fixDuration = .5
+
+## Inter Fixture Duration (IFI) in seconds:
+IFI = .19
+
+## Question Duration in seconds:
+qDuration = 1000000
+
+## Inter Question Duration (IQI) in seconds:
+IQI = 0
+
+## Text Size:
+textSize = 24
+
+## Slide Text Size:
+slideTextSize = 18
+
+## Question Text Size:
+questionTextSize = 24
+
+
+## -------------------------------------------------------------
+## Below this line are optional variables that override the default
+## values in SentEEG.m.
+
+## Participants usually press one of two buttons in response to each
+## question.  
+##'button1' and 'button2' specify which buttons they may
+## press in response to the question.
+## 'button1Trigger' and 'button2Trigger' specify the triggers that
+## correspond with each button press for 'button1' and 'button2' above.
+
+#button1 = [KbName('j')]
+#button1Trigger = [251]
+#button2 = [KbName('f')]
+#button2Trigger = [252]
+
+buttonList = [KbName('j'),KbName('f')]
+buttonTriggerList = [251, 252]
+
+## 'moveOnButton' refers to the button participants press in order to move ## on to the next item, after a text slide, and at the end of the 
+## experiment. 'moveOnTrigger' is the corresponding trigger.
+
+moveOnButton = [KbName('j') KbName('f') KbName('space')]
+moveOnTrigger = [250 250 250]
+
+#this trigger appears at the start of all blocks that are not named
+#"intro" (block.name does not equal 'intro'), i.e. it appears at
+#the start of each experimental block, after the trigger for the
+#spacebar to move on to that block.
+
+blockTrigger = 9

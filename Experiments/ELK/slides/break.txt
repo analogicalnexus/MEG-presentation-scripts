@@ -1,0 +1,6 @@
+<textslide>
+End of practice.
+
+When you are ready, please hit the space bar to move on to the experiment.
+
+</textslide>

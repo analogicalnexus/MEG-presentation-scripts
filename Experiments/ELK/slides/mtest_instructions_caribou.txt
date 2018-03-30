@@ -1,0 +1,15 @@
+<textslide>
+End of section!
+
+Press any button to move on to the memory test.
+</textslide>
+
+<textslide>
+Memory test:
+
+When you see a phrase, please indicate 
+if the full phrase (both words together)
+appeared in the the section that you just saw.
+
+Press the right button for yes; press the left button for no.
+</textslide>
