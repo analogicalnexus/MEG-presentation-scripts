@@ -15,7 +15,7 @@
 name = 'moose'
 
 ## Scanner type (MRI, EEG, MEG, testMEEG, or testMRI)
-scanner = 'testMEEG'
+scanner = 'MEG'
 
 ## Beginning trigger code
 beginTrigger = 254
