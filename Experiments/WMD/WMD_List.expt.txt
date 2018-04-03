@@ -1,0 +1,6 @@
+slides/WMD_introduction_practice.txt
+slides/WMD_instructions_part2.txt
+stim/WMD_practice.txt
+slides/WMD_break.txt
+stim/WMD_List.txt
+slides/WMD_conclusion.txt

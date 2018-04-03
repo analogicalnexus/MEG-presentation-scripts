@@ -1,0 +1,4 @@
+1	word	galaxy	6	9.14	3	opener	6	7.30	3	notify	6	9999	3	oatify	254 133
+2	word	parity	6	8.86	3	fiasco	6	7.21	3	purify	6	8.41	3	dotrify 254	133	
+3	word	enmity	6	5.79	3	eraser	6	6.39	3	nudity	6	6.40	3	enated	254	133
+4	word	polity	6	5.56	3	mutiny	6	5.99	3	elated	6	7.77	3	agated	254	133

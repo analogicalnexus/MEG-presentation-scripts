@@ -1,0 +1,29 @@
+Experiment File:/Users/brickles/Documents/MATLAB/Example_ELK/WordPres_Anna/Experiments/WMD/WMD_List.expt.txt
+Parameter File:/Users/brickles/Documents/MATLAB/Example_ELK/WordPres_Anna/Experiments/WMD/WMD.par
+Date:02-Apr-2018 17:47:15
+Subject ID:6543
+Parameters:
+logFileName
+name:moose
+scanner:testMEEG
+beginTrigger:254
+selfPaced:1
+nTriggers:150
+ITI:0
+preDPI:0.2
+postDPI:0.2
+wordDuration:5
+IWI:5
+finalWordDuration:1000000
+fixDuration:0.5
+IFI:0.19
+qDuration:1000000
+IQI:0
+textSize:24
+slideTextSize:18
+questionTextSize:24
+buttonList:13   9
+buttonTriggerList:251  252
+moveOnButton:13   9  44
+moveOnTrigger:250  250  250
+blockTrigger:9

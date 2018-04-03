@@ -1,0 +1,51 @@
+<textslide>
+Welcome to our study!
+
+In this study you will read short lists of words
+and be asked to keep them in your memory for 5 seconds.
+
+All word will be shown at once, for 5 seconds.
+
+Once the words disappear, they will be replaced by a
+fixation. This is the *MEMORY PERIOD*.
+
+It is important that you do not blink or move during the
+Memory Period, because we could lose data.
+
+Please hit any button to move on.
+</textslide>
+
+<textslide>
+Memory test:
+
+When you see a word after the Memory Period, please indicate 
+if the exact word rhymes with one of the words
+in the list you just saw before the Delay Period.
+
+
+Press the right button for “Does Rhyme”;
+press the left button for “Doesn’t Rhyme”.
+
+Please hit any button to move on.
+</textslide>
+
+<textslide>
+Remember: 
+
+Do not blink during the Memory Period or probe question (~6 seconds)!
+
+After each memory period, you will be asked about a rhyme.
+You can blink after the rhyme word disappears!
+
+Please ask the experimenter any questions you have now.
+
+When you are ready, please hit any button to begin practice.
+</textslide>
+
+
+
+
+
+
+
+
