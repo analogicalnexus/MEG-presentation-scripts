@@ -48,6 +48,7 @@
 "friend fruits sphere"	146	"+"	131	bend	155
 "suying rining cripet"	146	"+"	142	fioptic	156
 "ahousa priary epelid"	146	"+"	143	sein	156
+"Break 1!" 154 ? 154 "Rest now, then press to move on to the next block."
 "encusa angeho damera"	146	"+"	143	blalelo	155
 "baobar entaty algola"	146	"+"	143	mlue	155
 "eekily orubia agated"	146	"+"	143	manubia	155
@@ -95,9 +96,10 @@
 "valley invest season"	146	"+"	132	reason	155
 "chince baughs sorked"	146	"+"	141	blikinese	156
 "beasle callot bomsay"	146	"+"	142	weinfry	156
-"linear spaces native"	146	"+"	132	tongues	156
+"dinner spaces native"	146	"+"	132	tongues	156
 "amuses edited indigo"	146	"+"	133	chairperson	156
 "boolfs chaibs pracks"	146	"+"	141	liangle	156
+"Break 1!" 154 ? 154 "Rest now, then press to move on to the next block."
 "acacia comedy ocular"	146	"+"	133	secular	155
 "career rumors window"	146	"+"	132	prayer	156
 "spread charge square"	146	"+"	131	breeze	156
@@ -129,7 +131,7 @@
 "enmity eraser nudity"	146	"+"	133	synchrony	155
 "allord nidget buroed"	146	"+"	142	fallchord	155
 "cavind dresly fonvex"	146	"+"	142	davind	155
-"uneasy erotic sodomy"	146	"+"	133	queasy	155
+"uneasy erotic energy"	146	"+"	133	queasy	155
 "bourks treeps slique"	146	"+"	141	olimery	156
 "status worker triple"	146	"+"	132	lattice	155
 "ranary essigy felibe"	146	"+"	143	hinary	155

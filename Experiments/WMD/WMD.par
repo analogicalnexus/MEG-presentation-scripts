@@ -15,30 +15,30 @@
 name = 'moose'
 
 ## Scanner type (MRI, EEG, MEG, testMEEG, or testMRI)
-scanner = 'testMEEG'
+scanner = 'MEG'
 
 ## Beginning trigger code
-beginTrigger = 254
+beginTrigger = 154
 
 ## Self paced
 selfPaced = 1
 
 ## Number of trigger codes needed in total
 
-nTriggers = 150
+nTriggers = 25
 
 ## Inter-trial interval (not used)
 ITI = 1
 
 ## Word Duration in seconds:
-wordDuration = 7
+wordDuration = 5
 
 ## Inter Word Interval (IWI) in seconds:
 IWI = .5
 
 ## Final Word Duration in seconds
 
-finalWordDuration = 2
+finalWordDuration = 1
 
 ## Fixation Duration in seconds:
 fixDuration = 1
@@ -74,18 +74,18 @@ questionTextSize = 18
 ## correspond with each button press for 'button1' and 'button2' above.
 
 #button1 = [KbName('j')]
-#button1Trigger = [251]
+#button1Trigger = [155]
 #button2 = [KbName('f')]
-#button2Trigger = [252]
+#button2Trigger = [156]
+buttonList = [KbName('g'),KbName('b')]
+buttonTriggerList = [155, 156]
 
-buttonList = [KbName('j'),KbName('f')]
-buttonTriggerList = [251, 252]
 
 ## 'moveOnButton' refers to the button participants press in order to move ## on to the next item, after a text slide, and at the end of the 
 ## experiment. 'moveOnTrigger' is the corresponding trigger.
 
-moveOnButton = [KbName('j') KbName('f') KbName('space')]
-moveOnTrigger = [250 250 250]
+moveOnButton = [KbName('b') KbName('y') KbName('r') KbName('g') KbName('space')]
+moveOnTrigger = [154 154 154 154 154]
 
 #this trigger appears at the start of all blocks that are not named
 #"intro" (block.name does not equal 'intro'), i.e. it appears at
