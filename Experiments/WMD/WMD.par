@@ -15,7 +15,7 @@
 name = 'moose'
 
 ## Scanner type (MRI, EEG, MEG, testMEEG, or testMRI)
-scanner = 'MEG'
+scanner = 'testMEEG'
 
 ## Beginning trigger code
 beginTrigger = 254
@@ -28,44 +28,38 @@ selfPaced = 1
 nTriggers = 150
 
 ## Inter-trial interval (not used)
-ITI = 0
-
-## Predelay Period Interval
-preDPI=.2
-
-## post Delay period Interval
-postDPI=.2
+ITI = 1
 
 ## Word Duration in seconds:
-wordDuration = 5
+wordDuration = 7
 
 ## Inter Word Interval (IWI) in seconds:
-IWI = 5
+IWI = .5
 
 ## Final Word Duration in seconds
 
-finalWordDuration = 1000000
+finalWordDuration = 2
 
 ## Fixation Duration in seconds:
-fixDuration = .5
+fixDuration = 1
 
 ## Inter Fixture Duration (IFI) in seconds:
-IFI = .19
+IFI = .5
 
 ## Question Duration in seconds:
-qDuration = 1000000
+qDuration = 3
 
 ## Inter Question Duration (IQI) in seconds:
-IQI = 0
+IQI = .5
 
 ## Text Size:
-textSize = 24
+textSize = 18
 
 ## Slide Text Size:
 slideTextSize = 18
 
 ## Question Text Size:
-questionTextSize = 24
+questionTextSize = 18
 
 
 ## -------------------------------------------------------------

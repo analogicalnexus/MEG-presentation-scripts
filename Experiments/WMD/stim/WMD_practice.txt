@@ -1,4 +1,4 @@
-?	1	word	3	galaxy opener notify	303	oatify	254
-?	2	word	3	parity fiasco purify	303	dutrify	254
-?	3	word	3	enmity eraser nudity	303	enated	255
-?	4	word	3	polity mutiny elated	303	donkey	255
+"parity fiasco purify"	2	"+"	13 dutrify	1
+"enmity eraser nudity"	3	"+"	13 enated	0
+"dubbity wubbity nubbity"	99	"+"	23	"fubbity"	1
+"dubbit wubbit nubbit"	99	"+"	22	"futo"	0
