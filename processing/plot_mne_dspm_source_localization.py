@@ -8,6 +8,10 @@ The aim of this tutorial is to teach you how to compute and apply a linear
 inverse method such as MNE/dSPM/sLORETA on evoked/raw/epochs data.
 
 """
+import os
+os.environ['ETS_TOOLKIT'] = 'qt4'
+# os.environ['QT_API'] = 'pyqt'
+# from pyface.qt import QtGui, QtCore
 import numpy as np
 import matplotlib.pyplot as plt
 
