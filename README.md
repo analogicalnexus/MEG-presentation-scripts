@@ -1,4 +1,4 @@
-# Decoding Working Memory 
+# Decoding Phonological Working Memory
 
 Reading relies on phonological and semantic working memory (Caplan & Waters, 1999). Separating the effects of load in either system would be important for understanding how we read. For example, when reading becomes difficult due to either the text or the reader, what systems must the reader rely upon to persevere?
 
