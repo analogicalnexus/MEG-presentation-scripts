@@ -14,3 +14,8 @@ Will there be differences based on load? In our case, one vs three-syllable list
 Will there be differences for words and non words? If words are stored differently than nonwords, we expect different decoding results.
 
 For experiment design and results, refer presentation slides. 
+
+### Source Localization using Brainstorm 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-f3jgjEt_pc
+" target="_blank"><img src="http://img.youtube.com/vi/-f3jgjEt_pc/0.jpg" 
+alt=" Source Localization" width="480" height="360" border="10" /></a>
