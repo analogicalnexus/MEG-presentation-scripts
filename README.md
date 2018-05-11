@@ -15,7 +15,7 @@ Will there be differences for words and non words? If words are stored different
 
 For experiment design and results, refer presentation slides. 
 
-### Source Localization using Brainstorm 
+## Source Localization using Brainstorm 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-f3jgjEt_pc
 " target="_blank"><img src="http://img.youtube.com/vi/-f3jgjEt_pc/0.jpg" 
 alt=" Source Localization" width="480" height="360" border="10" /></a>
